@@ -7,7 +7,9 @@
 **A passionate Java Developer || AIML Engineer || MERN Stack Builder || Software Engineer from India**
 
 Email Me 👉 ✉️ **sarveshshinde150250@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/o__sarvesh__o) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarvesh2846) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarveshshinde150250@gmail.com) 
 
@@ -25,10 +27,6 @@ Email Me 👉 ✉️ **sarveshshinde150250@gmail.com** For Collaboration/Project
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvesh2846&theme=radical">
 
 </div>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh2846&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=sarvesh2846&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sarvesh2846&theme=dark&hide_border=false)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
