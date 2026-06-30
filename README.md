@@ -23,7 +23,6 @@ Email Me 👉 ✉️ **sarveshshinde150250@gmail.com** For Collaboration/Project
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarvesh2846&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarvesh2846&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarvesh2846&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=sarvesh2846&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=sarvesh2846&theme=radical">
 
 </div>
