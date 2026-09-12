@@ -60,16 +60,16 @@ AWS • Docker • Kubernetes • CI/CD
 
 </td>
 
-<td width="42%" align="center">
+<td width="42%" align="center" valign="middle">
 
 <img
-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-width="390"
-alt="Developer coding animation"
+  src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"
+  width="100%"
+  style="max-width:390px; height:auto;"
+  alt="Developer coding animation"
 />
 
 </td>
-
 </tr>
 </table>
 
