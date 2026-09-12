@@ -305,7 +305,7 @@ Building deeper expertise across engineering, problem solving and intelligent sy
 </div>
 
 
-<table>
+<table align="center">
 <tr>
 
 <td width="25%" align="center" bgcolor="#111827">
@@ -418,6 +418,7 @@ I'm always open to interesting ideas, collaborations and conversations.
 
 <br>
 
+<p>
 <a href="https://github.com/sarvesh2846">
 <img
 src="https://skillicons.dev/icons?i=github&theme=dark"
@@ -470,6 +471,7 @@ height="48"
 alt="Portfolio"
 />
 </a>
+</p>
 
 <a href="mailto:sarveshshinde150250@gmail.com">
 
