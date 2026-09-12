@@ -313,9 +313,9 @@ Building deeper expertise across engineering, problem solving and intelligent sy
 <br>
 
 <img
-src="https://skillicons.dev/icons?i=leetcode&theme=dark"
-width="55"
-alt="DSA"
+src="https://skillicons.dev/icons?i=fediverse,htmx&theme=dark"
+width="80"
+alt="Java and C++"
 />
 
 ### DSA
