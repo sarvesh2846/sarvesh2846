@@ -448,7 +448,7 @@ alt="LinkedIn"
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:sarveshshinde150250@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sarveshshinde150250@gmail.com&su=Let's%20Build%20Something%20Together&body=Hi%20Sarvesh%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20and%20discuss%20a%20project%2C%20idea%2C%20or%20collaboration.%0A%0A">
 <img
 src="https://skillicons.dev/icons?i=gmail&theme=dark"
 width="48"
@@ -469,8 +469,7 @@ alt="Portfolio"
 
 <br><br>
 
-<a href="mailto:sarveshshinde150250@gmail.com">
-
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=sarveshshinde150250@gmail.com&su=Let's%20Connect&body=Hi%20Sarvesh%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20found%20your%20work%20interesting.%20I%E2%80%99d%20like%20to%20connect%20and%20explore%20potential%20opportunities%20to%20collaborate.%0A%0ALooking%20forward%20to%20hearing%20from%20you.">
 <img
 src="https://img.shields.io/badge/LET'S%20BUILD%20SOMETHING-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"
 alt="Let's build something"
