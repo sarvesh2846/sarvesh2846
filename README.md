@@ -261,7 +261,7 @@ Modern full-stack web applications with clean APIs and responsive interfaces.
 
 <br><br>
 
-<a href="https://github.com/sarvesh2846">
+<a href="https://github.com/sarvesh2846/Wanderlust">
 
 <img
 src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"
