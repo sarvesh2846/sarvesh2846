@@ -97,35 +97,60 @@ alt="Cloud DevOps and database technologies"
 
 <br>
 
-
 <!-- ===================== PROBLEM SOLVING ==================== -->
 
 <div align="center">
 
 ## 🧩 Problem Solving
 
-<img
-src="https://leetcard.jacoblin.cool/Sarvesh2846?theme=dark&font=JetBrains%20Mono&ext=activity"
-width="520"
-alt="Sarvesh LeetCode Statistics"
-/>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<br><br>
+### LeetCode
 
 <a href="https://leetcode.com/u/Sarvesh2846/">
-
 <img
-src="https://img.shields.io/badge/EXPLORE%20MY%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
-alt="LeetCode"
+src="https://leetcard.jacoblin.cool/Sarvesh2846?theme=light&font=JetBrains%20Mono&ext=activity"
+width="420"
+alt="Sarvesh LeetCode Statistics"
 />
-
 </a>
 
-</div>
+</td>
+<td align="center" width="50%">
 
+### GeeksforGeeks
+
+<a href="https://www.geeksforgeeks.org/profile/sarvesh2846">
+<img
+src="https://gfg-stats.tashif.codes/sarvesh2846/stats/svg?theme=light"
+width="420"
+alt="Sarvesh GeeksforGeeks Statistics"
+/>
+</a>
+
+</td>
+</tr>
+</table>
 
 <br>
 
+<a href="https://leetcode.com/u/Sarvesh2846/">
+<img
+src="https://img.shields.io/badge/EXPLORE%20MY%20LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+alt="Explore My LeetCode"
+/>
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/sarvesh2846">
+<img
+src="https://img.shields.io/badge/EXPLORE%20MY%20GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
+alt="Explore My GeeksforGeeks"
+/>
+</a>
+
+</div>
 
 <!-- ===================== PROJECTS =========================== -->
 
